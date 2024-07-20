@@ -1,5 +1,15 @@
 ## Ann Nibana S L
-Committed and driven GIS student looking for opportunities to leverage academic and professional development to contribute to the academic community. Eager to develop skills while fostering a learning pathway that involves creativity, critical thinking and intellectual growth.
+Committed and driven GIS scholar looking for opportunities to leverage academic and professional development to contribute to the academic community. Eager to develop skills while fostering a learning pathway that involves creativity, critical thinking and intellectual growth.
+## Education
+IUCGIST,  Kariavattom Campus,India:
+ PG Diploma in GIS 
+December 2021 - 2022
+Bishop Moore College, University of Kerala:
+Master of Science in Physics 
+Oct 2016 - Aug 2018
+Bachelor of Science in Physics
+July 2013 - March 2016
+
 <!--
 **gisannmap/gisannmap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
