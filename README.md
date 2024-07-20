@@ -17,9 +17,9 @@ E-training on ‘Basics of Image Interpretation’ .Conducted by Geological Surv
 ‘Project Analyst Trainee’ for a period of 3 months in Sysh innovations pvt ltd, GIS based company–2022.
 
 ## Skills
-ArcGIS
-QGIS
-Erdas Imagine
+ArcGIS,
+QGIS,
+Erdas Imagine,
 Microsoft (Excel,Powerpoint,Word)
 
 
