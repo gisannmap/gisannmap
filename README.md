@@ -1,5 +1,5 @@
 ## Ann Nibana S L
-
+Committed and driven GIS student looking for opportunities to leverage academic and professional development to contribute to the academic community. Eager to develop skills while fostering a learning pathway that involves creativity, critical thinking and intellectual growth.
 <!--
 **gisannmap/gisannmap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
