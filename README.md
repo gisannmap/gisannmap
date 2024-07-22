@@ -24,7 +24,7 @@ Microsoft (Excel,Powerpoint,Word)
 
 ## Demos
  I Created this using Qgis, Inspiration Ujaval Gandhi [Blog post](https://www.qgistutorials.com/en/docs/3/animating_time_series.html),
- Try creating one yourself:)git commit --allow-empty-message
+ Try creating one yourself:)
  
 
 ![ezgif com-added-text](https://github.com/user-attachments/assets/60f5db52-2d7d-41db-9909-4f53d3e14c78)
