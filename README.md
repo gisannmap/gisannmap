@@ -2,7 +2,7 @@
 Committed and driven GIS scholar looking for opportunities to leverage academic and professional development to contribute to the academic community. Eager to develop skills while fostering a learning pathway that involves creativity, critical thinking and intellectual growth.
 <!--## Education
 IUCGIST,  Kariavattom Campus,India:
- PG Diploma in GIS 
+ PG diploma in GIS
 December 2021 - 2022
 Bishop Moore College, University of Kerala:
 Master of Science in Physics 
@@ -24,9 +24,11 @@ Microsoft (Excel,Powerpoint,Word)
 
 ## Demos
 
-Gif created in Qgis
+Gif created in Qgis, Inspiration Ujaval Gandhi [Blog post](https://www.qgistutorials.com/en/docs/3/animating_time_series.html)
 
 ![ezgif com-added-text](https://github.com/user-attachments/assets/60f5db52-2d7d-41db-9909-4f53d3e14c78)
+
+
 
 
 
