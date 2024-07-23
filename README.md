@@ -1,6 +1,6 @@
 ## Ann Nibana S L
 Committed and driven GIS scholar looking for opportunities to leverage academic and professional development to contribute to the academic community. Eager to develop skills while fostering a learning pathway that involves creativity, critical thinking and intellectual growth.
-<!--## Education
+## Education
 IUCGIST,  Kariavattom Campus,India:
  PG diploma in GIS
 December 2021 - 2022
@@ -8,7 +8,7 @@ Bishop Moore College, University of Kerala:
 Master of Science in Physics 
 Oct 2016 - Aug 2018
 Bachelor of Science in Physics
-July 2013 - March 2016-->
+July 2013 - March 2016
 ## Projects and Accolades
 Human Elephant Conflict and Forest Fire Vulnerability Assessment using GIS Techniques(Frequency ratio analysis method): A Study of Muthanga Wildlife Range, Kerala.  —2022, done under the mentorship of  Dr Rajesh Ragunath during the 2nd Semester, Post Graduate Diploma in Geospatial InformationScience and Technology.
 
