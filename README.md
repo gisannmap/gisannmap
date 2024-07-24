@@ -16,11 +16,11 @@ E-training on ‘Basics of Image Interpretation’ .Conducted by Geological Surv
 
 ‘Project Analyst Trainee’ for a period of 3 months in Sysh innovations pvt ltd, GIS based company–2022.
 
-## Skills
+<!--## Skills
 ArcGIS,
 QGIS,
 Erdas Imagine,
-Microsoft (Excel,Powerpoint,Word)
+Microsoft (Excel,Powerpoint,Word)-->
 
 ## Demos
  I Created this using Qgis, Inspiration Ujaval Gandhi [Blog post](https://www.qgistutorials.com/en/docs/3/animating_time_series.html),
