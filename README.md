@@ -27,9 +27,10 @@ Microsoft (Excel,Powerpoint,Word)
  Try creating one yourself:)
  
 
-![ezgif com-added-text](https://github.com/user-attachments/assets/60f5db52-2d7d-41db-9909-4f53d3e14c78)
 
 Created this short walk trail in Qgis tracking location using [GPS logger app](https://play.google.com/store/apps/details?id=eu.basicairdata.graziano.gpslogger&pcampaignid=web_share)
+
+![ezgif com-added-text](https://github.com/user-attachments/assets/60f5db52-2d7d-41db-9909-4f53d3e14c78)
 
 
 
