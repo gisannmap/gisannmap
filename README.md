@@ -1,7 +1,7 @@
 ## Ann Nibana S L
 Committed and driven GIS scholar looking for opportunities to leverage academic and professional development to contribute to the academic community. Eager to develop skills while fostering a learning pathway that involves creativity, critical thinking and intellectual growth.
-## Education
-<!--IUCGIST,  Kariavattom Campus,India:
+<!--## Education
+IUCGIST,  Kariavattom Campus,India:
  PG diploma in GIS
 December 2021 - 2022
 Bishop Moore College, University of Kerala:
@@ -9,7 +9,7 @@ Master of Science in Physics
 Oct 2016 - Aug 2018
 Bachelor of Science in Physics
 July 2013 - March 2016-->
-## Projects and Accolades
+# Projects and Accolades
 Human Elephant Conflict and Forest Fire Vulnerability Assessment using GIS Techniques(Frequency ratio analysis method): A Study of Muthanga Wildlife Range, Kerala.  —2022, done under the mentorship of  Dr Rajesh Ragunath during the 2nd Semester, Post Graduate Diploma in Geospatial InformationScience and Technology.
 
 E-training on ‘Basics of Image Interpretation’ .Conducted by Geological Survey of India–2021.
@@ -22,7 +22,7 @@ QGIS,
 Erdas Imagine,
 Microsoft (Excel,Powerpoint,Word)-->
 
-## Demos
+# Demos
  I Created this using Qgis, Inspiration Ujaval Gandhi [Blog post](https://www.qgistutorials.com/en/docs/3/animating_time_series.html),
  Try creating one yourself:)
 
@@ -36,7 +36,7 @@ Created this short walk trail in Qgis tracking location using [GPS logger app](h
 
 ![ezgif com-added-text (2)](https://github.com/user-attachments/assets/f960a257-c587-4366-872e-e231a8ec8d87)
 
-![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gisannmap&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gisannmap&show_icons=true&theme=cobalt)
 
 
 
