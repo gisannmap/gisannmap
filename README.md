@@ -36,7 +36,7 @@ Created this short walk trail in Qgis tracking location using [GPS logger app](h
 
 ![ezgif com-added-text (2)](https://github.com/user-attachments/assets/f960a257-c587-4366-872e-e231a8ec8d87)
 
-![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gisannmap&show_icons=true&theme=cobalt)
+![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gisannmap&show_icons=true&theme=dark)
 
 
 
