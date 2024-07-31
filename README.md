@@ -1,6 +1,6 @@
 ## Ann Nibana S L
 
-Committed and driven GIS scholar looking for opportunities to leverage academic and professional development to contribute to the academic community. Eager to develop skills while fostering a learning pathway that involves creativity, critical thinking and intellectual growth.
+Committed and driven GIS scholar looking for opportunities to leverage academic and professional development to contribute to the academic community. Striving to develop skills while fostering a learning pathway that involves creativity, critical thinking and intellectual growth.
 
 
 
