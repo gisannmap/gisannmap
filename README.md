@@ -28,7 +28,7 @@ Erdas Imagine,
 Microsoft (Excel,Powerpoint,Word)-->
 
 ![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gisannmap&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gisannmap&show=javascript,go,html,css,tex&theme=dark)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gisannmap&show=javascript,python,go,html,css,tex&theme=dark)
 
 
 ## Demos
