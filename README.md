@@ -1,12 +1,12 @@
 ## Ann Nibana S L
 [![CV](https://img.shields.io/badge/My%20CV-View-orange?style=flat&logo=adobeacrobatreader)](https://your-cv-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AnnNibana-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ann-nibana-s-l-7651b1204?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1bW7Rg5YR3e0ol1%2BF7LtTQ%3D%3D)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AnnNibana-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
 
 
 ## About Me
 
-I'm **Ann Nibana**, a GIS Analyst and Master's student of [The University of Texas at Dallas](https://www.utdallas.edu/).  
-So far I have worked with spatial data, remote sensing data and Python, on tasks like georeferencing, map editing and feature digitization, landuse change detection, modelling risk zones, webgis workflows using Arcgis API for python and visualization in JUpyter, performing spectral analysis and supervised/unsupervised classification of satellite and drone imagery, also expanding my capabilities in applying machine learning for object detection. Check out my **[Web Portfolio at](https://gisannmap.github.io/)**
+I'm **Ann Nibana**, a GIS Analyst and Master's student of The University of Texas at Dallas.  
+So far I have worked with spatial data, remote sensing data and Python, on tasks like georeferencing, map editing and feature digitization, landuse change detection, modelling risk zones, webgis workflows using Arcgis API for python and visualization in JUpyter, performing spectral analysis and supervised/unsupervised classification of satellite and drone imagery, also expanding my capabilities in applying machine learning for object detection. Check out my [Web Portfolio at](https://gisannmap.github.io/)
 
 My recent works includes:  
 - Object detection in aerial imagery using **YOLOv8**  
@@ -23,10 +23,12 @@ My recent works includes:
 - Spatial Analysis: Georeferencing, overlay analysis, land-use change detection, risk zone modeling  
 - Visualization: Jupyter Notebooks, ArcGIS Notebooks
 
+![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gisannmap&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gisannmap&hide=scss,css,html,javascript,go,tex&show=python,jupyter%20notebook,r&theme=default)
 
-![Ann's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gisannmap&show_icons=true&theme=default&hide_border=false)
+<!--![Ann GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gisannmap&show_icons=true&theme=default&hide_border=false)
 
-![Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gisannmap&hide=scss,css,html,javascript,go,tex&langs_count=3&theme=default&hide_border=false&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gisannmap&hide=scss,css,html,javascript,go,tex&langs_count=3&theme=default&hide_border=false&layout=compact)
 
 
 ## Demos
@@ -41,8 +43,7 @@ My recent works includes:
 
 ![ezgif com-added-text (2)](https://github.com/user-attachments/assets/f960a257-c587-4366-872e-e231a8ec8d87)
 
-<!--![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gisannmap&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gisannmap&hide=scss,css,html,javascript,go,tex&show=python,jupyter%20notebook,r&theme=dark)
+
 
 
 
@@ -71,7 +72,6 @@ ArcGIS,
 QGIS,
 Erdas Imagine,
 Microsoft (Excel,Powerpoint,Word)-->
-
 
 
 
