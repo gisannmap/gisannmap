@@ -23,10 +23,19 @@ My recent works includes:
 - Spatial Analysis: Georeferencing, overlay analysis, land-use change detection, risk zone modeling  
 - Visualization: Jupyter Notebooks, ArcGIS Notebooks
 
-![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gisannmap&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gisannmap&hide=scss,css,html,javascript,go,tex&show=python,jupyter%20notebook,r&theme=default)
+<div style="display: flex; justify-content: space-between;">
 
-<!--![Ann GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gisannmap&show_icons=true&theme=default&hide_border=false)
+  <img src="https://github-readme-stats.vercel.app/api?username=gisannmap&show_icons=true&theme=default" alt="GitHub Stats" style="width: 49%;" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisannmap&layout=compact&hide=css,html,go,scss,tex&theme=default" alt="Top Languages" style="width: 49%;" />
+
+</div>
+
+
+<!--![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gisannmap&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gisannmap&hide=scss,css,html,javascript,go,tex&show=python,jupyternotebook,r&theme=default)
+
+![Ann GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gisannmap&show_icons=true&theme=default&hide_border=false)
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gisannmap&hide=scss,css,html,javascript,go,tex&langs_count=3&theme=default&hide_border=false&layout=compact)
 
