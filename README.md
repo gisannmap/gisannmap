@@ -20,10 +20,14 @@ So far I have worked with spatial data, remote sensing data and Python, on tasks
 - Data & Spatial Analysis: Shapefiles, GeoJSON, Geodatabases; georeferencing, overlay, landuse change detection, risk modeling.
 - Visualization: Jupyter & ArcGIS Notebooks for interactive mapping and analysis.
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gisannmap&show_icons=true&theme=default" height="150">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gisannmap&hide=scss,css,html,javascript,go,tex&show=python,jupyter%20notebook,r&layout=compact&theme=default" height="150">
+![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gisannmap&show_icons=true) 
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gisannmap&langs_count=3&hide=javascript,go,html,css,tex)
+
+<!-- <div style="display: flex; gap: 20px;">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gisannmap&show_icons=true&theme=default" width="48%">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gisannmap&hide=scss,css,html,javascript,go,tex&show=python,jupyter%20notebook,r&layout=compact&theme=default" width="48%">
 </div>
+
 
 
 
