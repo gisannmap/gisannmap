@@ -21,7 +21,7 @@ So far I have worked with spatial data, remote sensing data and Python, on tasks
 - Visualization: Jupyter & ArcGIS Notebooks for interactive mapping and analysis.
 
 ![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gisannmap&show_icons=true) 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gisannmap&langs_count=3&hide=javascript,go,html,css,tex)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gisannmap&langs_count=3&hide=javascript,go,html,css,scss,tex&show=python,jupyternotebook,r)
 
 <!-- <div style="display: flex; gap: 20px;">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gisannmap&show_icons=true&theme=default" width="48%">
