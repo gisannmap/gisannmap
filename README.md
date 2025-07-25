@@ -46,6 +46,10 @@ My recent works includes:
 
 
 
+<<<<<<< HEAD
+=======
+Committed and driven GIS scholar looking for opportunities to leverage academic and professional development to contribute to the academic community. Striving to develop skills while fostering a learning pathway that involves creativity, critical thinking and intellectual growth.
+>>>>>>> 4ac5d1b2337ceec5b6e44a6fad77d23e0c49c69f
 
 
 
@@ -72,6 +76,11 @@ QGIS,
 Erdas Imagine,
 Microsoft (Excel,Powerpoint,Word)-->
 
+<<<<<<< HEAD
+=======
+![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gisannmap&show_icons=true&theme=highcontrast)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gisannmap&show=javascript,python,go,html,css,tex&theme=dark)
+>>>>>>> 4ac5d1b2337ceec5b6e44a6fad77d23e0c49c69f
 
 
 
