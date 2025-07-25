@@ -1,6 +1,6 @@
 ## Ann Nibana S L
 [![CV](https://img.shields.io/badge/My%20CV-View-orange?style=flat&logo=adobeacrobatreader)](https://your-cv-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AnnNibana-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AnnNibana-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ann-nibana-s-l-7651b1204?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B1bW7Rg5YR3e0ol1%2BF7LtTQ%3D%3D)
 
 
 ## About Me
@@ -24,9 +24,9 @@ My recent works includes:
 - Visualization: Jupyter Notebooks, ArcGIS Notebooks
 
 
-![Ann GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gisannmap&show_icons=true&theme=default&hide_border=false)
+![Ann's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gisannmap&show_icons=true&theme=default&hide_border=false)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gisannmap&hide=scss,css,html,javascript,go,tex&langs_count=3&theme=default&hide_border=false&layout=compact)
+![Used Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gisannmap&hide=scss,css,html,javascript,go,tex&langs_count=3&theme=default&hide_border=false&layout=compact)
 
 
 ## Demos
@@ -46,10 +46,6 @@ My recent works includes:
 
 
 
-<<<<<<< HEAD
-=======
-Committed and driven GIS scholar looking for opportunities to leverage academic and professional development to contribute to the academic community. Striving to develop skills while fostering a learning pathway that involves creativity, critical thinking and intellectual growth.
->>>>>>> 4ac5d1b2337ceec5b6e44a6fad77d23e0c49c69f
 
 
 
@@ -76,11 +72,6 @@ QGIS,
 Erdas Imagine,
 Microsoft (Excel,Powerpoint,Word)-->
 
-<<<<<<< HEAD
-=======
-![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gisannmap&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gisannmap&show=javascript,python,go,html,css,tex&theme=dark)
->>>>>>> 4ac5d1b2337ceec5b6e44a6fad77d23e0c49c69f
 
 
 
