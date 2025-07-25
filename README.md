@@ -6,31 +6,28 @@
 ## About Me
 
 I'm **Ann Nibana**, a GIS Analyst and Master's student of The University of Texas at Dallas.  
-So far I have worked with spatial data, remote sensing data and Python, on tasks like georeferencing, map editing and feature digitization, landuse change detection, modelling risk zones, webgis workflows using Arcgis API for python and visualization in JUpyter, performing spectral analysis and supervised/unsupervised classification of satellite and drone imagery, also expanding my capabilities in applying machine learning for object detection. Check out my [Web Portfolio at](https://gisannmap.github.io/)
+So far I have worked with spatial data, remote sensing data and Python, on tasks like georeferencing, map editing and feature digitization, landuse change detection, modelling risk zones, webgis workflows using Arcgis API for python and visualization in JUpyter, performing spectral analysis and supervised/unsupervised classification of satellite and drone imagery, also expanding my capabilities in applying machine learning for object detection. Check out my [Web Portfolio](https://gisannmap.github.io/)
 
 My recent works includes:  
 - Object detection in aerial imagery using **YOLOv8**  
 - Rainfall trend mapping of lanslide prone areas in Kerala and Landuse change detection of earthquake affected Norcia,Italy.
 - Modeling risk zones for **human-wildlife conflict**, elephant movement patterns in Muthanga Wildlife Sanctuary.
+[Gis Project repository](https://github.com/gisannmap/gisannprojects)
 
 ### Tools & Skills
-- GIS Platforms: ArcGIS Pro, QGIS, Drone2Map  
-- Programming: Python, R  
-- Python Libraries: Folium, GeoPandas, Matplotlib  
-- Remote Sensing: Spectral analysis, supervised/unsupervised classification, satellite and drone imagery analysis  
-- Cloud & Web GIS: Google Earth Engine, ArcGIS API for Python, Folium, Leaflet 
-- Spatial Data Management: Shapefiles, GeoJSON, Geodatabases  
-- Spatial Analysis: Georeferencing, overlay analysis, land-use change detection, risk zone modeling  
-- Visualization: Jupyter Notebooks, ArcGIS Notebooks
+-GIS Platforms & Remote Sensing: ArcGIS Pro, QGIS, Drone2Map; spectral analysis, satellite & drone image classification.
+-Programming & Libraries: Python, R; Folium, GeoPandas, Matplotlib.
+-Web & Cloud GIS: Google Earth Engine, ArcGIS API for Python, Leaflet.
+-Data & Spatial Analysis: Shapefiles, GeoJSON, Geodatabases; georeferencing, overlay, landuse change detection, risk modeling.
+-Visualization: Jupyter & ArcGIS Notebooks for interactive mapping and analysis.
 
-<div style="display: flex; justify-content: space-between;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=gisannmap&show_icons=true&theme=default" alt="GitHub Stats" style="width: 49%;" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisannmap&layout=compact&hide=css,html,go,scss,tex&theme=default" alt="Top Languages" style="width: 49%;" />
-
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=gisannmap&show_icons=true&theme=default&hide_title=false" alt="GitHub Stats" style="width: 49%; height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gisannmap&layout=compact&hide=html,css,scss,go,tex,javascript&theme=default" alt="Top Languages" style="width: 49%; height: 200px;" />
 </div>
 
+
+<!-- Created this short walk trail in Qgis tracking location using [GPS logger app](https://play.google.com/store/apps/details?id=eu.basicairdata.graziano.gpslogger&pcampaignid=web_share)
 
 <!--![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gisannmap&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gisannmap&hide=scss,css,html,javascript,go,tex&show=python,jupyternotebook,r&theme=default)
@@ -47,7 +44,7 @@ My recent works includes:
  ![ezgif com-added-text](https://github.com/user-attachments/assets/60f5db52-2d7d-41db-9909-4f53d3e14c78)
  
  
- <!-- Created this short walk trail in Qgis tracking location using [GPS logger app](https://play.google.com/store/apps/details?id=eu.basicairdata.graziano.gpslogger&pcampaignid=web_share)
+ 
 
 
 ![ezgif com-added-text (2)](https://github.com/user-attachments/assets/f960a257-c587-4366-872e-e231a8ec8d87)
