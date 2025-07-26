@@ -22,20 +22,22 @@ So far I have worked with spatial data, remote sensing data and Python, on tasks
 
 <div style="display: flex; gap: 20px;">
  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gisannmap&show_icons=true&theme=default" width="48%">
-
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gisannmap&langs_count=5&show=python,jupyternotebook,r&hide=css,scss,html,javascript,go,tex&theme=default&card_width=300" width="48%">
-
-
-
+ <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=giswqs&langs_count=3&hide_progress=true&hide=javascript,go,html,css,tex)">
 
 </div>
+
+
+## Demos
+ Created this short walk trail in Qgis tracking location using [GPS logger app](https://play.google.com/store/apps/details?id=eu.basicairdata.graziano.gpslogger&pcampaignid=web_share)
+ 
+![ezgif com-added-text (2)](https://github.com/user-attachments/assets/f960a257-c587-4366-872e-e231a8ec8d87)
 
 <!--![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gisannmap&show_icons=true) 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gisannmap&langs_count=3&hide=javascript,go,html,css,scss,tex&show=python,jupyternotebook,r)
 
 
 
-<!-- Created this short walk trail in Qgis tracking location using [GPS logger app](https://play.google.com/store/apps/details?id=eu.basicairdata.graziano.gpslogger&pcampaignid=web_share)
+
 
 ## Demos
  I Created this using Qgis, Inspiration Ujaval Gandhi [Blog post](https://www.qgistutorials.com/en/docs/3/animating_time_series.html),
@@ -44,10 +46,6 @@ So far I have worked with spatial data, remote sensing data and Python, on tasks
  ![ezgif com-added-text](https://github.com/user-attachments/assets/60f5db52-2d7d-41db-9909-4f53d3e14c78)
  
  
- 
-
-
-![ezgif com-added-text (2)](https://github.com/user-attachments/assets/f960a257-c587-4366-872e-e231a8ec8d87)
 
 
 
