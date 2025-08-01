@@ -1,6 +1,6 @@
 ## Ann Nibana S L
-[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://your-cv-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AnnNibana-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://github.com/gisannmap/gisannmap/blob/main/docs/Ann_CV.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AnnNibana-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ann-nibana-s-l-7651b1204/)
 
 
 ## About Me
@@ -32,6 +32,12 @@ So far I have worked with spatial data, remote sensing data and Python, on tasks
  
 ![ezgif com-added-text (2)](https://github.com/user-attachments/assets/f960a257-c587-4366-872e-e231a8ec8d87)
 
+
+ <!--I Created this using Qgis, Inspiration Ujaval Gandhi [Blog post](https://www.qgistutorials.com/en/docs/3/animating_time_series.html),
+ Try creating one yourself:)
+
+ ![ezgif com-added-text](https://github.com/user-attachments/assets/60f5db52-2d7d-41db-9909-4f53d3e14c78)
+
 <!--![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gisannmap&show_icons=true) 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gisannmap&langs_count=3&hide=javascript,go,html,css,scss,tex&show=python,jupyternotebook,r)
 
@@ -39,11 +45,7 @@ So far I have worked with spatial data, remote sensing data and Python, on tasks
 
 
 
-## Demos
- I Created this using Qgis, Inspiration Ujaval Gandhi [Blog post](https://www.qgistutorials.com/en/docs/3/animating_time_series.html),
- Try creating one yourself:)
 
- ![ezgif com-added-text](https://github.com/user-attachments/assets/60f5db52-2d7d-41db-9909-4f53d3e14c78)
  
  
 
